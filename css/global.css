@@ -1,0 +1,41 @@
+  
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+
+}
+.header-people {
+background-image: url(img.jpg);
+z-index: -1;
+}
+header {
+    width: 1920px;
+    height: 1061px;
+    max-width: 100%;
+    background-size: cover;
+}
+.logo-head {
+    padding-top: 30px;
+    padding-left: 55px;
+}
+.div-head {
+    display: flex;
+    justify-content: space-between;
+}
+.nav-items {
+    display: inline-block;
+    margin-right: 37px;
+}
+nav {
+    padding-top: 30px;
+    padding-right: 50px;
+    
+}
